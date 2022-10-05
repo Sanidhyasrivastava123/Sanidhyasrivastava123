@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyasrivastava123&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhyasrivastava123" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate**
+# 💫 About Me :
+- 😄 Pronouns: He/His
+
+- ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
+
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Backend Development, Data Structures and Algorithms.**
 
@@ -20,14 +25,22 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhyasrivastava123&show_icons=true&locale=en&layout=compact" alt="sanidhyasrivastava123" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhyasrivastava123&show_icons=true&locale=en" alt="sanidhyasrivastava123" /></p>
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanidhyasrivastava123&theme=vue"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyasrivastava123&" alt="sanidhyasrivastava123" /></p>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanidhyasrivastava123&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyasrivastava123&theme=vue" />
+</p>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
+<div align="center">
 
-**I am open to**:
+### Show some ❤️ by starring some of the repositories!
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships 
+</div>
