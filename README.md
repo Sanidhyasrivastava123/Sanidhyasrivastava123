@@ -20,6 +20,9 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhyasrivastava123&show_icons=true&locale=en&layout=compact" alt="sanidhyasrivastava123" /></p> -->
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhyasrivastava123&show_icons=true&locale=en" alt="sanidhyasrivastava123" /></p>
+
+
 
 **I am open to**:
 
