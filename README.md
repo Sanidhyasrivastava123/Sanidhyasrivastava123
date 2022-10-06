@@ -6,13 +6,13 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Backend Development, Data Structures and Algorithms.**
 
 - 📫 How to reach me **sanidhya.official289@gmail.com**
+
+- ⚡ Fun fact: I spend almost 8 hours listening to songs every day.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
