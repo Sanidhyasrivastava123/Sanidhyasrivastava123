@@ -6,7 +6,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Backend Development, Data Structures and Algorithms.**
 
